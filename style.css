@@ -25,6 +25,14 @@ background-color: beige;
 .directorio
 {
 
-border-radius: 3px;
+color: rgb(34, 57, 11);
+
+}
+
+.formulario
+{
+
+    border: solid color rgb(34, 57, 11) 3px;
+
 
 }
